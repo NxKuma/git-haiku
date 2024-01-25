@@ -1,7 +1,3 @@
 I don't use AI
-<<<<<<< HEAD
 Chat GPT and alike
-=======
-
 It lacks human touch
->>>>>>> bc72465 (Added third line of haiku)
